@@ -9,33 +9,44 @@ Un outil d'analyse SEO avancé qui examine une page web et génère un rapport d
 ## ✨ Fonctionnalités
 
 ### 📊 Analyse Technique
-- Vérification SSL/HTTPS
-- Analyse des temps de chargement
-- Vérification de l'optimisation mobile
-- Analyse des en-têtes HTTP
-- Vérification du robots.txt
-- Analyse du sitemap.xml
+[![SSL](https://img.shields.io/badge/SSL-HTTPS-green?style=flat-square)]()
+[![Mobile](https://img.shields.io/badge/Mobile-Optimized-blue?style=flat-square)]()
+[![Vitesse](https://img.shields.io/badge/Performance-Fast-yellow?style=flat-square)]()
+
+- Vérification SSL/HTTPS  
+- Analyse des temps de chargement  
+- Vérification de l'optimisation mobile  
+- Analyse des en-têtes HTTP  
+- Vérification du robots.txt  
+- Analyse du sitemap.xml  
 
 ### 📝 Analyse du Contenu
-- Titre de la page et meta tags
-- Structure des titres (H1, H2, H3)
-- Longueur et qualité du contenu
-- Densité des mots-clés
-- Images et attributs ALT
-- Liens internes et externes
+[![Contenu](https://img.shields.io/badge/Contenu-SEO-blueviolet?style=flat-square)]()
+[![Mots-clés](https://img.shields.io/badge/Mots--clés-Analyse-orange?style=flat-square)]()
+
+- Titre de la page et meta tags  
+- Structure des titres (H1, H2, H3)  
+- Longueur et qualité du contenu  
+- Densité des mots-clés  
+- Images et attributs ALT  
+- Liens internes et externes  
 
 ### 🔎 Analyse SEO Avancée
-- Balises Schema.org
-- Open Graph tags
-- Balises canoniques
-- Meta robots
-- Favicon
+[![Schema](https://img.shields.io/badge/Schema.org-Good-green?style=flat-square)]()
+[![OpenGraph](https://img.shields.io/badge/OpenGraph-Tags-blue?style=flat-square)]()
+[![Canonical](https://img.shields.io/badge/Canonical-Yes-orange?style=flat-square)]()
+
+- Balises Schema.org  
+- Open Graph tags  
+- Balises canoniques  
+- Meta robots  
+- Favicon  
 
 ### 💡 Suggestions d'Amélioration
-- Recommandations priorisées (Critique, Important, Modéré, Mineur)
-- Solutions concrètes pour chaque problème
-- Bonnes pratiques SEO
-- Conseils d'optimisation
+- Recommandations priorisées (Critique, Important, Modéré, Mineur)  
+- Solutions concrètes pour chaque problème  
+- Bonnes pratiques SEO  
+- Conseils d'optimisation  
 
 <div>
   <img src="suggestions.jpg" alt="suggestions-seo" width="600">
@@ -120,13 +131,26 @@ Les contributions sont les bienvenues ! Voici comment vous pouvez aider :
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-## 📄 Licence
+6. ## 👥 Auteurs
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+- Benjamin Jaccob - *Développeur initial* <br><br>
 
-## 👥 Auteurs
+## 💼 Hire Me — Atelier Digital VisiCraft
 
-- Benjamin Jaccob - *Développeur initial*
+Je propose un accompagnement complet pour les entreprises qui veulent :  
+- Améliorer leur visibilité sur Google  
+- Optimiser la structure et le contenu de leur site  
+- Corriger les problèmes techniques SEO  
+- Augmenter la vitesse et la performance (Core Web Vitals)  
+- Développer un site web moderne, rapide et orienté conversions  
+
+🎯 **Objectif :** augmenter votre trafic, visibilité et conversions  
+
+👉 Découvrez mon atelier digital : **[VisiCraft.fr](https://visicraft.fr)**  
+Création de sites web • SEO • UX • Optimisation technique  
+
+📩 Contact : contact@visicraft.fr
+
 
 ## 🙏 Remerciements
 
