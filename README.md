@@ -1,7 +1,7 @@
 # SEO Titan - Conquer Rankings with Precision
 
 <div>
-  <img src="seotitan.jpg" alt="seotitan" width="600">
+  <img src="seotitan.png" alt="seotitan" width="600">
 </div>
 
 Un outil d'analyse SEO avancé qui examine une page web et génère un rapport détaillé sur différents aspects SEO importants. Cet outil est conçu pour aider les webmasters et les spécialistes SEO à identifier rapidement les problèmes et opportunités d'optimisation.
@@ -56,7 +56,7 @@ Un outil d'analyse SEO avancé qui examine une page web et génère un rapport d
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/gofastpanam/seo-titan.git
+git clone https://github.com/benjamin-jacob-dev/seo-titan.git
 cd seo-titan
 ```
 
